@@ -2,7 +2,7 @@
 
 var React = require('react'),
     AuthorsApi = require('../../api/author'),
-    AuthorList = require('./authorList.jsx');
+    AuthorList = require('./authorList.js');
 
 
 var AuthorPage = React.createClass({
